@@ -79,3 +79,14 @@ theme: black-blue
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type:
+
+menu:
+  # 主页: /archives/
+  所有文章: /archives/
+  语言基础: /categories/语言基础/
+  框架知识: /categories/框架知识/
+  分布式架构: /categories/分布式架构/
+  数据结构与算法: /categories/数据结构与算法/
+  玩转开发工具: /categories/开发工具/
+  视频教程分享: /categories/视频教程分享/
+  关于我: /about/
