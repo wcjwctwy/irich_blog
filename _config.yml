@@ -75,6 +75,12 @@ pagination_dir: page
 ## Themes: https://hexo.io/themes/
 theme: black-blue
 
+# Link to your avatar | 填写头像地址
+avatar: /img/avatar.png
+
+# Small icon of Your site | 站点小图标地址
+favicon: /img/favicon.png
+
 # Deployment git clone https://github.com/maochunguang/black-blue.git
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
